@@ -9,7 +9,6 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Welcome</h1>
-
    </div>
      
 ![Snake animation](https://github.com/lcbreno/lcbreno/blob/output/github-contribution-grid-snake.svg)
