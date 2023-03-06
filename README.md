@@ -1,8 +1,17 @@
-### Olá! Eu sou o Breno 🤝
+## Olá! Eu sou o Breno 🤝
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenolc/)
-[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-[![VSCode](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)]()
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lcbreno&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcbreno&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
 
-![Breno GitHub stats](https://github-readme-stats.vercel.app/api?username=lcbreno&show_icons=true&theme=cobalt)
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">Welcome</h1>
+
+   </div>
+     
+![Snake animation](https://github.com/lcbreno/lcbreno/blob/output/github-contribution-grid-snake.svg)
