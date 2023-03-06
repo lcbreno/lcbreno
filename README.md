@@ -6,7 +6,6 @@
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcbreno&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
